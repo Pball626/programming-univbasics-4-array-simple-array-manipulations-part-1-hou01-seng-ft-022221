@@ -12,4 +12,6 @@ end
 def using_pop(array)
   using_pop = ["1", "2", "3", "4", "5", "6"]
   ["5"] = using_pop.pop
+  p using_pop
+  p
 end
