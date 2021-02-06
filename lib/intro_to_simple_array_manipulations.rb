@@ -11,4 +11,5 @@ end
 
 def using_pop(array)
   using_pop.pop
+  p using_pop
 end
